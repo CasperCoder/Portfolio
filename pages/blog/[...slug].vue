@@ -13,7 +13,7 @@
                     <ContentRenderer :value="doc" />
                     
                 </div>
-                <div class="col-span-2 not-prose" v-if"doc.toc">
+                <div class="col-span-2 not-prose" v-if="doc.toc">
                 <aside class="sticky top-8">
                     <div class="font-semibold mb-2">
                         Table of Content

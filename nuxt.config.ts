@@ -19,7 +19,16 @@ content: {
   colorMode: {
     classSuffix: ''
 }
+
+// experimental: {
+//   renderJsonPayloads: false
+// }
   // future: {
   //   compatibilityVersion: 4,
   // }
+// router: {
+//    options: {
+//     scrollBehaviorType: 'smooth'
+//         }
+//     }
 })
