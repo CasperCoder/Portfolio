@@ -25,6 +25,11 @@ content: {
 
   colorMode: {
     classSuffix: ''
+},
+nitro: {
+  prerender: {
+    routes: ['/sitemap.xml']
+  }
 }
 
 // experimental: {

@@ -1,8 +1,8 @@
 <template>
     <div class="container mx-auto">
-        <header class="flex justify-between items-center mt-5">
+        <header class="flex justify-between items-start md:items-center mt-5">
            <div class="flex items-center space-x-12">
-            <div>
+            <div class="hidden md:block">
 <NuxtLink to="/" class="text-xl font-semivold p-2 hover:bg-gray-200 dark:hover:bg-gray-600">Kacper Zagrodziński</NuxtLink>
 
             </div>
